@@ -5,10 +5,20 @@
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 privacyportal-eu.onetrust.com
 0.0.0.0 privacyportal.onetrust.com
+0.0.0.0 privacyportal-cdn.onetrust.com
+0.0.0.0 privacyportal-uk.onetrust.com
+0.0.0.0 privacyportal-br.onetrust.com
+0.0.0.0 privacyportal-eu-cdn.onetrust.com
+0.0.0.0 privacyportal-uk-cdn.onetrust.com
+0.0.0.0 privacyportal-br-cdn.onetrust.com
+0.0.0.0 cdn-au.onetrust.com
+0.0.0.0 cc-cdn.onetrust.com
 0.0.0.0 sdk.privacy-center.org
 0.0.0.0 consent.cookiebot.com
+0.0.0.0 consent.cookiebot.eu
 0.0.0.0 cdn.cookietractor.com
 0.0.0.0 cdn.cookiehub.eu
+0.0.0.0 cookiehub.net
 0.0.0.0 cdn-cookieyes.com
 0.0.0.0 app.usercentrics.eu
 0.0.0.0 cdn.cookie-script.com
@@ -22,6 +32,11 @@
 0.0.0.0 sync.transcend.io
 0.0.0.0 cscript-cdn-use.cassiecloud.com
 0.0.0.0 cdn.iubenda.com
+0.0.0.0 cs.iubenda.com
+0.0.0.0 cdn.gravito.net
+0.0.0.0 cdn.consentmanager.net
+0.0.0.0 static.axept.io
+0.0.0.0 clickiocmp.com
 
 # Site-specific hosts
 0.0.0.0 cmp.aftonbladet.se
