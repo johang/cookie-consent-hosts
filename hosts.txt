@@ -13,6 +13,8 @@
 0.0.0.0 privacyportal-br-cdn.onetrust.com
 0.0.0.0 cdn-au.onetrust.com
 0.0.0.0 cc-cdn.onetrust.com
+0.0.0.0 cdn-ukwest.onetrust.com
+0.0.0.0 geolocation.onetrust.com
 0.0.0.0 sdk.privacy-center.org
 0.0.0.0 consent.cookiebot.com
 0.0.0.0 consent.cookiebot.eu
@@ -24,8 +26,6 @@
 0.0.0.0 cdn.cookie-script.com
 0.0.0.0 policy.app.cookieinformation.com
 0.0.0.0 cdn.privacy-mgmt.com
-0.0.0.0 cookiehub.net
-0.0.0.0 cdn-ukwest.onetrust.com
 0.0.0.0 cmp.inmobi.com
 0.0.0.0 cdn-prod.eu.securiti.ai
 0.0.0.0 cmp.osano.com
@@ -37,6 +37,11 @@
 0.0.0.0 cdn.consentmanager.net
 0.0.0.0 static.axept.io
 0.0.0.0 clickiocmp.com
+0.0.0.0 gdpr.privacymanager.io
+0.0.0.0 gdpr-wrapper.privacymanager.io
+0.0.0.0 cmp-consent-tool.privacymanager.io
+0.0.0.0 fundingchoicesmessages.google.com
+0.0.0.0 cmp.quantcast.com
 
 # Site-specific hosts
 0.0.0.0 cmp.aftonbladet.se
