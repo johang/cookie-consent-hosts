@@ -42,6 +42,8 @@
 0.0.0.0 cmp-consent-tool.privacymanager.io
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 cmp.quantcast.com
+0.0.0.0 boundlessveil.com
+0.0.0.0 cookie-cdn.cookiepro.com
 
 # Site-specific hosts
 0.0.0.0 cmp.aftonbladet.se
