@@ -1,0 +1,8 @@
+repos:
+ - repo: local
+   hooks:
+    - id: sort
+      name: Sort
+      entry: ./utils/sort.py
+      language: script
+      files: \.txt$
