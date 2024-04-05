@@ -33,7 +33,6 @@
 0.0.0.0 cdn-ukwest.onetrust.com
 0.0.0.0 geolocation.onetrust.com
 0.0.0.0 cmp.osano.com
-0.0.0.0 sdk.privacy-center.org
 0.0.0.0 cdn.privacy-mgmt.com
 0.0.0.0 gdpr.privacymanager.io
 0.0.0.0 gdpr-wrapper.privacymanager.io
@@ -41,6 +40,7 @@
 0.0.0.0 cmp.quantcast.com
 0.0.0.0 cdn-prod.eu.securiti.ai
 0.0.0.0 cdn-prod.securiti.ai
+0.0.0.0 cmp.setupcmp.com
 0.0.0.0 sync.transcend.io
 0.0.0.0 consent-pref.trustarc.com
 0.0.0.0 consent.trustarc.com
