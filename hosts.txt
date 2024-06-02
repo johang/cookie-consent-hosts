@@ -5,6 +5,7 @@
 0.0.0.0 cdn-cookieyes.com
 0.0.0.0 cc.cdn.civiccomputing.com
 0.0.0.0 clickiocmp.com
+0.0.0.0 choices.consentframework.com
 0.0.0.0 cdn.consentmanager.net
 0.0.0.0 cdn.cookie-script.com
 0.0.0.0 consent.cookiebot.com
