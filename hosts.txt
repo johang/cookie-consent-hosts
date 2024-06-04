@@ -17,6 +17,7 @@
 0.0.0.0 policy.app.cookieinformation.com
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cookie-cdn.cookiepro.com
+0.0.0.0 policy.cookiereports.com
 0.0.0.0 cdn.cookietractor.com
 0.0.0.0 the.gatekeeperconsent.com
 0.0.0.0 fundingchoicesmessages.google.com
