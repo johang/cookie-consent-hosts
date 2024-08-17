@@ -126,7 +126,6 @@
 0.0.0.0 cdn-1657.privacy-mgmt.com
 0.0.0.0 cdn-1662.privacy-mgmt.com
 0.0.0.0 cdn-1688.privacy-mgmt.com
-0.0.0.0 cdn-1706.privacy-mgmt.com
 0.0.0.0 cdn-1709.privacy-mgmt.com
 0.0.0.0 cdn-1719.privacy-mgmt.com
 0.0.0.0 cdn-1724.privacy-mgmt.com
@@ -160,9 +159,11 @@
 0.0.0.0 cdn-1915.privacy-mgmt.com
 0.0.0.0 cdn-1916.privacy-mgmt.com
 0.0.0.0 cdn-1940.privacy-mgmt.com
+0.0.0.0 cdn-1945.privacy-mgmt.com
 0.0.0.0 cdn-1947.privacy-mgmt.com
 0.0.0.0 cdn-1952.privacy-mgmt.com
 0.0.0.0 cdn-1959.privacy-mgmt.com
+0.0.0.0 cdn-1975.privacy-mgmt.com
 0.0.0.0 gdpr.privacymanager.io
 0.0.0.0 gdpr-wrapper.privacymanager.io
 0.0.0.0 cmp-consent-tool.privacymanager.io
