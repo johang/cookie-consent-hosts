@@ -6,11 +6,12 @@ from sys import argv
 
 class Host:
     def __init__(self, address, hostnames):
-        dots = hostnames[0].rsplit(".", 3)
+        dots = hostnames[0].rsplit(".")
         assert(len(dots) >= 2)
         self.address = address
         self.hostnames = hostnames
         self.domain = ".".join(dots[-2:])
+        self.subdomain = ".".join(reversed(dots[:-2]))
 
     @staticmethod
     def parse(line):
@@ -41,5 +42,5 @@ for arg in argv[1:]:
                 f.write("\n")
             f.write(key + "\n")
             first = False
-            for host in sorted(hosts, key=lambda h: h.domain):
+            for host in sorted(hosts, key=lambda h: (h.domain, h.subdomain)):
                 f.write(str(host) + "\n")
