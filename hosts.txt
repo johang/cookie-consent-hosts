@@ -74,7 +74,6 @@
 0.0.0.0 app.eu.usercentrics.eu
 
 # Sourcepoint
-0.0.0.0 cdn.privacy-mgmt.com
 0.0.0.0 cdn-1047.privacy-mgmt.com
 0.0.0.0 cdn-1047-2.privacy-mgmt.com
 0.0.0.0 cdn-1061.privacy-mgmt.com
@@ -182,6 +181,7 @@
 0.0.0.0 cdn-1947.privacy-mgmt.com
 0.0.0.0 cdn-1952.privacy-mgmt.com
 0.0.0.0 cdn-1959.privacy-mgmt.com
+0.0.0.0 cdn-1960.privacy-mgmt.com
 0.0.0.0 cdn-1975.privacy-mgmt.com
 0.0.0.0 cdn-200.privacy-mgmt.com
 0.0.0.0 cdn-212.privacy-mgmt.com
@@ -189,7 +189,6 @@
 0.0.0.0 cdn-217-2.privacy-mgmt.com
 0.0.0.0 cdn-245.privacy-mgmt.com
 0.0.0.0 cdn-259.privacy-mgmt.com
-0.0.0.0 cdn-270.privacy-mgmt.com
 0.0.0.0 cdn-296.privacy-mgmt.com
 0.0.0.0 cdn-314.privacy-mgmt.com
 0.0.0.0 cdn-329.privacy-mgmt.com
@@ -205,7 +204,6 @@
 0.0.0.0 cdn-52.privacy-mgmt.com
 0.0.0.0 cdn-52-2.privacy-mgmt.com
 0.0.0.0 cdn-52-3.privacy-mgmt.com
-0.0.0.0 cdn-630-2.privacy-mgmt.com
 0.0.0.0 cdn-630-3.privacy-mgmt.com
 0.0.0.0 cdn-661.privacy-mgmt.com
 0.0.0.0 cdn-692.privacy-mgmt.com
