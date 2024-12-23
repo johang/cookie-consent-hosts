@@ -6,6 +6,7 @@
 0.0.0.0 cdn-cookieyes.com
 0.0.0.0 cc.cdn.civiccomputing.com
 0.0.0.0 clickiocmp.com
+0.0.0.0 static.clickskeks.at
 0.0.0.0 cdn.consentmanager.mgr.consensu.org
 0.0.0.0 cmp.uniconsent.mgr.consensu.org
 0.0.0.0 api.consentframework.com
@@ -26,6 +27,7 @@
 0.0.0.0 cookie-cdn.cookiepro.com
 0.0.0.0 policy.cookiereports.com
 0.0.0.0 cdn.cookietractor.com
+0.0.0.0 webcache-eu.datareporter.eu
 0.0.0.0 privacy.gatekeeperconsent.com
 0.0.0.0 the.gatekeeperconsent.com
 0.0.0.0 fundingchoicesmessages.google.com
@@ -56,6 +58,7 @@
 0.0.0.0 privacyportal-uk-cdn.onetrust.com
 0.0.0.0 cdn.opencmp.net
 0.0.0.0 cmp.osano.com
+0.0.0.0 cdn.privacy-mgmt.com
 0.0.0.0 cmp-consent-tool.privacymanager.io
 0.0.0.0 gdpr.privacymanager.io
 0.0.0.0 gdpr-wrapper.privacymanager.io
@@ -70,6 +73,7 @@
 0.0.0.0 cmp.uniconsent.com
 0.0.0.0 api.usercentrics.eu
 0.0.0.0 app.usercentrics.eu
+0.0.0.0 web.cmp.usercentrics.eu
 0.0.0.0 api.eu.usercentrics.eu
 0.0.0.0 app.eu.usercentrics.eu
 
